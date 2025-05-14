@@ -63,7 +63,7 @@ This is a multi-page responsive website created as a final project for demonstra
 
 ## ✍️ Author
 Stephen Mutua  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/StackStriker)
 
 ---
 
