@@ -1,7 +1,7 @@
 # My Final Project
 
 ## 🌐 Live Website
-[View on GitHub Pages](https://yourusername.github.io/final-project/)
+[View on GitHub Pages](https://StackSriker.github.io/final-project/)
 
 ---
 
