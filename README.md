@@ -1,7 +1,7 @@
 # My Final Project
 
 ## 🌐 Live Website
-[View on GitHub Pages](https://StackStriker.github.io/final-project/)
+[View on GitHub Pages](https://stackstriker.github.io/Final-Web-dev-project/)
 
 ---
 
